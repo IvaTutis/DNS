@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainNameServer", "DomainNameServer\DomainNameServer.csproj", "{8C686998-280B-4DD6-8F62-FB3079C626FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulator", "Simulator\Simulator.csproj", "{913D3494-9D16-4489-AE17-17FB95797D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C686998-280B-4DD6-8F62-FB3079C626FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C686998-280B-4DD6-8F62-FB3079C626FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C686998-280B-4DD6-8F62-FB3079C626FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C686998-280B-4DD6-8F62-FB3079C626FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913D3494-9D16-4489-AE17-17FB95797D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913D3494-9D16-4489-AE17-17FB95797D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913D3494-9D16-4489-AE17-17FB95797D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913D3494-9D16-4489-AE17-17FB95797D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

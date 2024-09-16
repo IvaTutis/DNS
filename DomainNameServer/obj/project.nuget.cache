@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlbyEiyuhHZtTL5qowBiPvoG4RJlhQFyiLXAbpDu4bEH+mqdshffeozJJNOIa2CoAfnFMAHYaSutwAkImVoQ/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iva.tutis\\source\\repos_Private\\DNS\\DomainNameServer\\DomainNameServer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://iot.eccos.com.hr/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
