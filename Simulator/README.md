@@ -1,8 +1,8 @@
-# Domain Name Server iliti jednostavna implementacija Gradskog Adresara
+# Domain Name Server iliti simpl implementacija Gradskog Adresara
 
 ## Pričam ti priču
 
-Želiš posjetiti prijateljicu, ali kako imaš meh prostorni IQ, znaš samo njeno ime, a nemaš pojma adresu. 
+Želiš posjetiti prijateljicu, ali kako imaš nizak prostorni IQ, znaš samo njeno ime, a nemaš pojma adresu. 
 To je kao da pitaš prijateljicu Kristinu koja iz nekog totalno non-creepy razloga se skoro uvijek sijeća gdje svi kolege iz razreda žive, ona ti kaže da se ništa ne brineš i da bude ona našla adresu, nađe adresu - i onda možete otići k Luciji.
 
 Evo kako bi to izgledalo na internetu:
